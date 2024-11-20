@@ -8,6 +8,7 @@
 
 ## Tabla de Contenido
 1. [Enlace del Video Explicativo por Jose Leonardo](#enlace-del-video-explicativo-del-nuevo-componente-de-Jose-Leonardo-Vargas-Herrera)
+- [Enlace del Frontd](#enlace-del-frontd)
 2. [Descripción General del Proyecto](#descripción-general-del-proyecto)
 3. [Funcionalidades Principales](#funcionalidades-principales)
    - [Frontend](#frontend)
@@ -25,7 +26,6 @@
    - [Generación del APK](#generación-del-apk)
 8. [Evidencias del Proyecto](#evidencias-del-proyecto)
    - [Imágenes](#imágenes)
-   - [Imágenes APK](#imágenes-apk)
 9. [Descarga de Recursos](#descarga-de-recursos)
 10. [Resultado](#resultado)
 ---
@@ -38,6 +38,10 @@ Puedes ver el video explicativo del nuevo componente en el siguiente enlace:
 
 ---
 ---
+
+## Enlace del frontd
+**[Enlace al frontd](https://drive.google.com/file/d/1RP35HfBrWVf4jVncBK1QCXUxSkYdJD2z/view?usp=sharing)**
+
 
 ## Descripción General del Proyecto
 
@@ -168,22 +172,14 @@ git push
 ### Imágenes
 
 
-![paso 1](Evidencia/1.png)
-![paso 2](Evidencia/2.png)
-![paso 3](Evidencia/3.png)
-![paso 4](Evidencia/4.png)
-![paso 5](Evidencia/5.png)
-![paso 6](Evidencia/6.png)
-![paso 7](Evidencia/7.png)
-![paso 8](Evidencia/8.png)
-### Imágenes APK
-![paso 9](Evidencia/9.png)
-
-![paso 10](Evidencia/10.png)
-
-![paso 11](Evidencia/11.png)
-
-![paso 12](Evidencia/12.png)
+![paso 1](Evidencia/paso%201.png)
+![menu](Evidencia/menu.png)
+![productos](Evidencia/productos.png)
+![ingresar productos](Evidencia/inpro.png)
+![confirmar](Evidencia/confirmar.png)
+![pedidos](Evidencia/pedidos.png)
+![ingresar pedidos](Evidencia/inped.png)
+![confirmar pedido](Evidencia/confipe.png)
 
 ## Descarga de Recursos
 
